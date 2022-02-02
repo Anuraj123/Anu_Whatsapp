@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=SeqTools
+Comment=Digital gene-expression and variant calling for RNA/DNA sequence
+Exec=/opt/SeqTools/bin/SeqTools/SeqTools
+Icon=BDGE.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_US]=SeqTools
